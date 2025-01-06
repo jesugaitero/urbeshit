@@ -1,0 +1,17 @@
+{
+  "name": "urbeshit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script-urbe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.9",
+    "selenium-webdriver": "^4.27.0"
+  }
+}
