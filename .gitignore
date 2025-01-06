@@ -1,2 +1,5 @@
 /node_modules/
 .env
+
+news.json
+url-news.json
